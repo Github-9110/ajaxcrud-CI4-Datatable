@@ -1,0 +1,21 @@
+CRITICAL - 2023-09-11 03:15:36 --> Call to undefined method App\Models\StudentModel::updatedate
+in SYSTEMPATH/Model.php on line 873.
+ 1 APPPATH/Controllers/Home.php(64): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->updatedata()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-11 03:15:36 --> Call to undefined method App\Models\StudentModel::updatedate
+in SYSTEMPATH/Model.php on line 873.
+ 1 APPPATH/Controllers/Home.php(64): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->updatedata()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-11 03:15:36 --> Call to undefined method App\Models\StudentModel::updatedate
+in SYSTEMPATH/Model.php on line 873.
+ 1 APPPATH/Controllers/Home.php(64): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->updatedata()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
